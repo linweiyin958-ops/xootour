@@ -1,0 +1,42 @@
+[
+  {
+    "category_id": 1,
+    "category_name_zh": "美食",
+    "category_name_en": "Food",
+    "amap_types": "050000",
+    "amap_keywords": ["深圳餐厅", "深圳中餐", "深圳粤菜", "深圳潮汕菜", "深圳茶餐厅", "深圳火锅", "深圳日料", "深圳西餐", "深圳烧烤", "深圳海鲜", "深圳早茶", "深圳甜品", "深圳小吃", "深圳椰子鸡", "深圳肠粉", "深圳牛肉火锅", "深圳砂锅粥", "深圳烧腊", "深圳大排档"],
+    "description": "深圳美食门店，覆盖粤菜/潮汕菜/茶餐厅/海鲜/早茶及各地菜系"
+  },
+  {
+    "category_id": 2,
+    "category_name_zh": "酒店",
+    "category_name_en": "Hotel",
+    "amap_types": "100000",
+    "amap_keywords": ["深圳酒店", "深圳民宿", "深圳青年旅舍", "深圳五星级酒店", "深圳精品酒店", "深圳连锁酒店", "深圳度假酒店", "深圳海景酒店"],
+    "description": "深圳住宿服务，覆盖星级酒店/海景酒店/精品民宿/青年旅舍"
+  },
+  {
+    "category_id": 3,
+    "category_name_zh": "景点",
+    "category_name_en": "Attraction",
+    "amap_types": "110000|140000",
+    "amap_keywords": ["深圳景区", "深圳博物馆", "深圳公园", "深圳海滩", "深圳主题公园", "深圳古城", "深圳美术馆", "深圳纪念馆", "深圳动植物园", "深圳游乐园", "深圳植物园"],
+    "description": "深圳旅游景点，覆盖主题乐园/海滩/公园/博物馆/古城/创意园区"
+  },
+  {
+    "category_id": 4,
+    "category_name_zh": "购物",
+    "category_name_en": "Shopping",
+    "amap_types": "060100",
+    "amap_keywords": ["深圳购物中心", "深圳百货商场", "深圳免税店", "深圳奥特莱斯", "深圳商圈", "深圳商业街", "深圳特产店", "深圳文创店", "深圳电子市场", "深圳万象城", "深圳COCOPark"],
+    "description": "深圳购物场所，覆盖商圈百货/万象城/COCOPark/免税店/华强北"
+  },
+  {
+    "category_id": 5,
+    "category_name_zh": "娱乐",
+    "category_name_en": "Entertainment",
+    "amap_types": "080500",
+    "amap_keywords": ["深圳酒吧", "深圳KTV", "深圳密室逃脱", "深圳剧本杀", "深圳电影院", "深圳剧院", "深圳Livehouse", "深圳夜店", "深圳脱口秀", "深圳桌游", "深圳电竞", "深圳游乐园", "深圳水疗"],
+    "description": "深圳娱乐场所，覆盖酒吧/KTV/密室/剧本杀/演出/Livehouse"
+  }
+]
