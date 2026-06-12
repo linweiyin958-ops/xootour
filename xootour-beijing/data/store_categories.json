@@ -1,0 +1,42 @@
+[
+  {
+    "category_id": 1,
+    "category_name_zh": "美食",
+    "category_name_en": "Food",
+    "amap_types": "050000",
+    "amap_keywords": ["北京餐厅", "北京中餐", "北京烤鸭", "北京涮羊肉", "北京小吃", "北京火锅", "北京川菜", "北京粤菜", "北京日料", "北京西餐", "北京韩餐", "北京咖啡", "北京茶馆", "北京甜品", "北京烧烤", "北京面馆", "北京卤煮", "北京炒肝", "北京豆汁"],
+    "description": "北京美食门店，覆盖京菜/烤鸭/涮羊肉/小吃/老字号及各地菜系"
+  },
+  {
+    "category_id": 2,
+    "category_name_zh": "酒店",
+    "category_name_en": "Hotel",
+    "amap_types": "100000",
+    "amap_keywords": ["北京酒店", "北京民宿", "北京青年旅舍", "北京五星级酒店", "北京精品酒店", "北京连锁酒店", "北京四合院民宿", "北京胡同民宿", "北京度假村"],
+    "description": "北京住宿服务，覆盖星级酒店/四合院民宿/胡同客栈/青年旅舍"
+  },
+  {
+    "category_id": 3,
+    "category_name_zh": "景点",
+    "category_name_en": "Attraction",
+    "amap_types": "110000|140000",
+    "amap_keywords": ["北京景区", "北京博物馆", "北京公园", "北京寺庙", "北京长城", "北京胡同", "北京美术馆", "北京纪念馆", "北京动植物园", "北京游乐园", "北京主题公园"],
+    "description": "北京旅游景点，覆盖5A/4A景区/博物馆/公园/寺庙/胡同/主题乐园"
+  },
+  {
+    "category_id": 4,
+    "category_name_zh": "购物",
+    "category_name_en": "Shopping",
+    "amap_types": "060100",
+    "amap_keywords": ["北京购物中心", "北京百货商场", "北京免税店", "北京奥特莱斯", "北京商圈", "北京商业街", "北京特产店", "北京文创店", "北京古玩城", "北京潘家园"],
+    "description": "北京购物场所，覆盖商圈百货/特色街区/免税店/文创市集"
+  },
+  {
+    "category_id": 5,
+    "category_name_zh": "娱乐",
+    "category_name_en": "Entertainment",
+    "amap_types": "080500",
+    "amap_keywords": ["北京酒吧", "北京KTV", "北京密室逃脱", "北京剧本杀", "北京电影院", "北京剧院", "北京Livehouse", "北京夜店", "北京相声", "北京脱口秀", "北京桌游", "北京电竞", "北京游乐园", "北京水疗"],
+    "description": "北京娱乐场所，覆盖酒吧/KTV/密室/剧本杀/演出/相声/夜店"
+  }
+]

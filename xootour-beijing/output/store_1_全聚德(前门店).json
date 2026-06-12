@@ -1,0 +1,47 @@
+{
+  "L1_base_and_info": {
+    "name_zh": "全聚德(前门店)",
+    "name_en": "",
+    "category_id": 1,
+    "city_id": 1,
+    "district": "北京市",
+    "address_zh": "前门大街30号",
+    "address_en": "",
+    "lat": 39.89663,
+    "lng": 116.398244,
+    "cover_img": "",
+    "seo_desc": "全聚德(前门店)-美食北京旅游服务指南",
+    "summary_zh": "",
+    "summary_en": ""
+  },
+  "L2_operations": {
+    "open_hours": "",
+    "phone": "010-67011379",
+    "website": "",
+    "price_range": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "ranking_desc": "",
+    "cuisine_tags": "[]",
+    "michelin_status": 0,
+    "visit_notice": "",
+    "signature_items": [],
+    "tags": [],
+    "category_specific_fields": {
+      "cuisine_type": "",
+      "meal_type": [],
+      "seating_capacity": null,
+      "private_rooms": null,
+      "parking": false,
+      "delivery": false,
+      "reservation": false,
+      "signature_dishes": [],
+      "michelin_star": null
+    }
+  },
+  "sub_tables": {
+    "store_banner": [],
+    "store_product": [],
+    "store_facility": []
+  }
+}
