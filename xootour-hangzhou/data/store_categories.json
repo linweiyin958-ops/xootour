@@ -1,0 +1,42 @@
+[
+  {
+    "category_id": 1,
+    "category_name_zh": "美食",
+    "category_name_en": "Food",
+    "amap_types": "050000",
+    "amap_keywords": ["杭州餐厅", "杭州中餐", "杭帮菜", "杭州小吃", "杭州火锅", "杭州川菜", "杭州粤菜", "杭州日料", "杭州西餐", "杭州韩餐", "杭州咖啡", "杭州茶馆", "杭州甜品", "杭州烧烤", "杭州面馆", "杭州片儿川", "杭州龙井虾仁", "杭州东坡肉", "杭州叫花鸡"],
+    "description": "杭州美食门店，覆盖杭帮菜/片儿川/东坡肉/龙井虾仁/小吃及各地菜系"
+  },
+  {
+    "category_id": 2,
+    "category_name_zh": "酒店",
+    "category_name_en": "Hotel",
+    "amap_types": "100000",
+    "amap_keywords": ["杭州酒店", "杭州民宿", "杭州青年旅舍", "杭州五星级酒店", "杭州精品酒店", "杭州连锁酒店", "杭州西湖民宿", "杭州度假村"],
+    "description": "杭州住宿服务，覆盖星级酒店/民宿/西湖边客栈/青年旅舍"
+  },
+  {
+    "category_id": 3,
+    "category_name_zh": "景点",
+    "category_name_en": "Attraction",
+    "amap_types": "110000|140000",
+    "amap_keywords": ["杭州景区", "杭州博物馆", "杭州公园", "杭州寺庙", "杭州西湖", "杭州美术馆", "杭州纪念馆", "杭州动植物园", "杭州游乐园", "杭州主题公园"],
+    "description": "杭州旅游景点，覆盖5A/4A景区/博物馆/公园/寺庙/西湖/主题乐园"
+  },
+  {
+    "category_id": 4,
+    "category_name_zh": "购物",
+    "category_name_en": "Shopping",
+    "amap_types": "060100",
+    "amap_keywords": ["杭州购物中心", "杭州百货商场", "杭州免税店", "杭州奥特莱斯", "杭州商圈", "杭州商业街", "杭州特产店", "杭州文创店", "杭州丝绸市场", "杭州茶叶市场"],
+    "description": "杭州购物场所，覆盖商圈百货/特色街区/免税店/文创市集"
+  },
+  {
+    "category_id": 5,
+    "category_name_zh": "娱乐",
+    "category_name_en": "Entertainment",
+    "amap_types": "080500",
+    "amap_keywords": ["杭州酒吧", "杭州KTV", "杭州密室逃脱", "杭州剧本杀", "杭州电影院", "杭州剧院", "杭州Livehouse", "杭州夜店", "杭州桌游", "杭州电竞", "杭州游乐园", "杭州水疗"],
+    "description": "杭州娱乐场所，覆盖酒吧/KTV/密室/剧本杀/演出/夜店"
+  }
+]
