@@ -1,0 +1,42 @@
+[
+  {
+    "category_id": 1,
+    "category_name_zh": "美食",
+    "category_name_en": "Food",
+    "amap_types": "050000",
+    "amap_keywords": ["重庆餐厅", "重庆火锅", "重庆小面", "重庆江湖菜", "重庆烧烤", "重庆串串", "重庆川菜", "重庆小吃", "重庆烤鱼", "重庆酸辣粉", "重庆豆花", "重庆夜宵", "重庆咖啡", "重庆甜品"],
+    "description": "重庆美食门店，覆盖火锅/小面/江湖菜/烧烤/老字号及各地菜系"
+  },
+  {
+    "category_id": 2,
+    "category_name_zh": "酒店",
+    "category_name_en": "Hotel",
+    "amap_types": "100000",
+    "amap_keywords": ["重庆酒店", "重庆民宿", "重庆江景酒店", "重庆青年旅舍", "重庆五星级酒店", "重庆精品酒店", "重庆连锁酒店", "重庆解放碑酒店", "重庆南滨路酒店"],
+    "description": "重庆住宿服务，覆盖星级酒店/江景民宿/山城客栈/青年旅舍"
+  },
+  {
+    "category_id": 3,
+    "category_name_zh": "景点",
+    "category_name_en": "Attraction",
+    "amap_types": "110000|140000",
+    "amap_keywords": ["重庆景区", "重庆博物馆", "重庆公园", "重庆寺庙", "重庆古镇", "重庆纪念馆", "重庆美术馆", "重庆主题公园"],
+    "description": "重庆旅游景点，覆盖5A/4A景区/博物馆/公园/古镇/主题乐园"
+  },
+  {
+    "category_id": 4,
+    "category_name_zh": "购物",
+    "category_name_en": "Shopping",
+    "amap_types": "060100",
+    "amap_keywords": ["重庆购物中心", "重庆百货商场", "重庆商圈", "重庆商业街", "重庆特产店", "重庆文创店", "重庆解放碑商圈", "重庆观音桥商圈"],
+    "description": "重庆购物场所，覆盖商圈百货/特色街区/文创市集"
+  },
+  {
+    "category_id": 5,
+    "category_name_zh": "娱乐",
+    "category_name_en": "Entertainment",
+    "amap_types": "080500",
+    "amap_keywords": ["重庆酒吧", "重庆KTV", "重庆密室逃脱", "重庆剧本杀", "重庆电影院", "重庆剧院", "重庆Livehouse", "重庆夜店", "重庆相声", "重庆脱口秀", "重庆桌游", "重庆电竞", "重庆温泉"],
+    "description": "重庆娱乐场所，覆盖酒吧/KTV/密室/剧本杀/演出/相声/温泉"
+  }
+]
