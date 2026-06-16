@@ -1,0 +1,42 @@
+[
+  {
+    "category_id": 1,
+    "category_name_zh": "美食",
+    "category_name_en": "Food",
+    "amap_types": "050000",
+    "amap_keywords": ["西安餐厅", "西安陕菜", "西安小吃", "西安泡馍", "西安凉皮", "西安肉夹馍", "西安烤肉", "西安火锅", "西安川菜", "西安面馆", "西安饺子", "西安葫芦头", "西安胡辣汤", "西安甑糕", "西安甜品", "西安咖啡", "西安茶馆", "西安陕菜馆", "西安老字号"],
+    "description": "西安美食门店，覆盖陕菜/小吃/面食/泡馍/烤肉/老字号及各地菜系"
+  },
+  {
+    "category_id": 2,
+    "category_name_zh": "酒店",
+    "category_name_en": "Hotel",
+    "amap_types": "100000",
+    "amap_keywords": ["西安酒店", "西安民宿", "西安青年旅舍", "西安五星级酒店", "西安精品酒店", "西安连锁酒店", "西安温泉酒店", "西安度假村", "西安钟楼住宿"],
+    "description": "西安住宿服务，覆盖星级酒店/民宿/青年旅舍/温泉度假"
+  },
+  {
+    "category_id": 3,
+    "category_name_zh": "景点",
+    "category_name_en": "Attraction",
+    "amap_types": "110000|140000",
+    "amap_keywords": ["西安景区", "西安博物馆", "西安公园", "西安寺庙", "西安城墙", "西安大雁塔", "西安兵马俑", "西安华清宫", "西安历史遗迹", "西安主题公园"],
+    "description": "西安旅游景点，覆盖5A/4A景区/博物馆/寺庙/历史遗迹/主题乐园"
+  },
+  {
+    "category_id": 4,
+    "category_name_zh": "购物",
+    "category_name_en": "Shopping",
+    "amap_types": "060100",
+    "amap_keywords": ["西安购物中心", "西安百货商场", "西安回民街", "西安大唐不夜城", "西安商圈", "西安商业街", "西安特产店", "西安文创店", "西安书院门", "西安古玩城"],
+    "description": "西安购物场所，覆盖商圈百货/特色街区/免税店/文创市集"
+  },
+  {
+    "category_id": 5,
+    "category_name_zh": "娱乐",
+    "category_name_en": "Entertainment",
+    "amap_types": "080500",
+    "amap_keywords": ["西安酒吧", "西安KTV", "西安密室逃脱", "西安剧本杀", "西安电影院", "西安剧院", "西安Livehouse", "西安相声", "西安相声新势力", "西安青曲社", "西安温泉", "西安水疗", "西安夜店", "西安汉服体验"],
+    "description": "西安娱乐场所，覆盖酒吧/KTV/密室/剧本杀/演出/相声/温泉/汉服"
+  }
+]
