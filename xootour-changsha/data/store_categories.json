@@ -1,0 +1,42 @@
+[
+  {
+    "category_id": 1,
+    "category_name_zh": "美食",
+    "category_name_en": "Food",
+    "amap_types": "050000",
+    "amap_keywords": ["长沙餐厅", "长沙湘菜", "长沙小吃", "长沙火锅", "长沙臭豆腐", "长沙米粉", "长沙烧烤", "长沙茶颜悦色", "长沙川菜", "长沙粤菜", "长沙日料", "长沙西餐", "长沙咖啡", "长沙茶馆", "长沙面包甜品"],
+    "description": "长沙美食门店，覆盖湘菜/小吃/火锅/米粉/烧烤/茶饮及各地菜系"
+  },
+  {
+    "category_id": 2,
+    "category_name_zh": "酒店",
+    "category_name_en": "Hotel",
+    "amap_types": "100000",
+    "amap_keywords": ["长沙酒店", "长沙民宿", "长沙青年旅舍", "长沙五星级酒店", "长沙精品酒店", "长沙连锁酒店", "长沙江景酒店", "长沙度假村"],
+    "description": "长沙住宿服务，覆盖星级酒店/江景民宿/青年旅舍"
+  },
+  {
+    "category_id": 3,
+    "category_name_zh": "景点",
+    "category_name_en": "Attraction",
+    "amap_types": "110000|140000",
+    "amap_keywords": ["长沙景区", "长沙博物馆", "长沙公园", "长沙寺庙", "长沙岳麓山", "长沙橘子洲", "长沙美术馆", "长沙纪念馆", "长沙游乐园", "长沙主题公园"],
+    "description": "长沙旅游景点，覆盖5A/4A景区/博物馆/公园/寺庙/主题乐园"
+  },
+  {
+    "category_id": 4,
+    "category_name_zh": "购物",
+    "category_name_en": "Shopping",
+    "amap_types": "060100",
+    "amap_keywords": ["长沙购物中心", "长沙百货商场", "长沙五一商圈", "长沙步行街", "长沙太平街", "长沙特产店", "长沙文创店"],
+    "description": "长沙购物场所，覆盖商圈百货/特色街区/文创市集"
+  },
+  {
+    "category_id": 5,
+    "category_name_zh": "娱乐",
+    "category_name_en": "Entertainment",
+    "amap_types": "080500",
+    "amap_keywords": ["长沙酒吧", "长沙KTV", "长沙密室逃脱", "长沙剧本杀", "长沙电影院", "长沙剧院", "长沙Livehouse", "长沙夜店", "长沙洗浴", "长沙水疗"],
+    "description": "长沙娱乐场所，覆盖酒吧/KTV/密室/剧本杀/演出/夜店"
+  }
+]
