@@ -1,0 +1,42 @@
+[
+  {
+    "category_id": 1,
+    "category_name_zh": "美食",
+    "category_name_en": "Food",
+    "amap_types": "050000",
+    "amap_keywords": ["青岛餐厅", "青岛海鲜", "青岛啤酒屋", "青岛鲁菜", "青岛烤肉", "青岛小吃", "青岛火锅", "青岛川菜", "青岛韩餐", "青岛日料", "青岛咖啡", "青岛茶馆", "青岛甜品", "青岛烧烤", "青岛面馆"],
+    "description": "青岛美食门店，覆盖海鲜/鲁菜/啤酒屋/韩料/小吃及各地菜系"
+  },
+  {
+    "category_id": 2,
+    "category_name_zh": "酒店",
+    "category_name_en": "Hotel",
+    "amap_types": "100000",
+    "amap_keywords": ["青岛酒店", "青岛民宿", "青岛海景酒店", "青岛青年旅舍", "青岛五星级酒店", "青岛精品酒店", "青岛连锁酒店", "青岛海边民宿", "青岛公寓", "青岛度假村"],
+    "description": "青岛住宿服务，覆盖星级酒店/海景民宿/公寓/青年旅舍/度假村"
+  },
+  {
+    "category_id": 3,
+    "category_name_zh": "景点",
+    "category_name_en": "Attraction",
+    "amap_types": "110000|140000",
+    "amap_keywords": ["青岛景区", "青岛博物馆", "青岛公园", "青岛寺庙", "青岛海滩", "青岛海岛", "青岛海洋馆", "青岛游乐园", "青岛主题公园"],
+    "description": "青岛旅游景点，覆盖A级景区/博物馆/公园/海滩/海岛/主题乐园"
+  },
+  {
+    "category_id": 4,
+    "category_name_zh": "购物",
+    "category_name_en": "Shopping",
+    "amap_types": "060100",
+    "amap_keywords": ["青岛购物中心", "青岛百货商场", "青岛商圈", "青岛商业街", "青岛特产店", "青岛海产品市场", "青岛免税店", "青岛奥特莱斯"],
+    "description": "青岛购物场所，覆盖商圈百货/商业街/海鲜市场/特产店"
+  },
+  {
+    "category_id": 5,
+    "category_name_zh": "娱乐",
+    "category_name_en": "Entertainment",
+    "amap_types": "080500",
+    "amap_keywords": ["青岛酒吧", "青岛KTV", "青岛电影院", "青岛剧院", "青岛LIVEHOUSE", "青岛洗浴", "青岛温泉", "青岛水世界", "青岛游乐场", "青岛网吧"],
+    "description": "青岛娱乐场所，覆盖酒吧/KTV/洗浴/温泉/电影院/水世界"
+  }
+]
