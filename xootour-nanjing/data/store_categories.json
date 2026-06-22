@@ -1,0 +1,42 @@
+[
+  {
+    "category_id": 1,
+    "category_name_zh": "美食",
+    "category_name_en": "Food",
+    "amap_types": "050000",
+    "amap_keywords": ["南京餐厅", "南京中餐", "南京淮扬菜", "南京盐水鸭", "南京鸭血粉丝汤", "南京火锅", "南京川菜", "南京粤菜", "南京日料", "南京西餐", "南京韩餐", "南京咖啡", "南京茶馆", "南京甜品", "南京烧烤", "南京面馆", "南京小吃", "南京汤包", "南京小笼包"],
+    "description": "南京美食门店，覆盖淮扬菜/盐水鸭/鸭血粉丝汤/小吃/老字号及各地菜系"
+  },
+  {
+    "category_id": 2,
+    "category_name_zh": "酒店",
+    "category_name_en": "Hotel",
+    "amap_types": "100000",
+    "amap_keywords": ["南京酒店", "南京民宿", "南京青年旅舍", "南京五星级酒店", "南京精品酒店", "南京连锁酒店", "南京温泉酒店", "南京度假村", "南京夫子庙酒店"],
+    "description": "南京住宿服务，覆盖星级酒店/温泉民宿/精品酒店/青年旅舍"
+  },
+  {
+    "category_id": 3,
+    "category_name_zh": "景点",
+    "category_name_en": "Attraction",
+    "amap_types": "110000|140000",
+    "amap_keywords": ["南京景区", "南京博物馆", "南京公园", "南京寺庙", "南京城墙", "南京民国建筑", "南京美术馆", "南京纪念馆", "南京动植物园", "南京游乐园", "南京温泉"],
+    "description": "南京旅游景点，覆盖5A/4A景区/博物馆/公园/寺庙/民国建筑/主题乐园"
+  },
+  {
+    "category_id": 4,
+    "category_name_zh": "购物",
+    "category_name_en": "Shopping",
+    "amap_types": "060100",
+    "amap_keywords": ["南京购物中心", "南京百货商场", "南京商圈", "南京商业街", "南京特产店", "南京文创店", "南京云锦", "南京新街口", "南京夫子庙步行街", "南京老门东"],
+    "description": "南京购物场所，覆盖商圈百货/特色街区/文创市集/特产店"
+  },
+  {
+    "category_id": 5,
+    "category_name_zh": "娱乐",
+    "category_name_en": "Entertainment",
+    "amap_types": "080500",
+    "amap_keywords": ["南京酒吧", "南京KTV", "南京密室逃脱", "南京剧本杀", "南京电影院", "南京剧院", "南京Livehouse", "南京夜店", "南京相声", "南京脱口秀", "南京桌游", "南京电竞", "南京水疗"],
+    "description": "南京娱乐场所，覆盖酒吧/KTV/密室/剧本杀/演出/相声/夜店"
+  }
+]
