@@ -1,0 +1,42 @@
+[
+  {
+    "category_id": 1,
+    "category_name_zh": "美食",
+    "category_name_en": "Food",
+    "amap_types": "050000",
+    "amap_keywords": ["柳州餐厅", "柳州中餐", "柳州螺蛳粉", "柳州小吃", "柳州火锅", "柳州川菜", "柳州粤菜", "柳州日料", "柳州西餐", "柳州咖啡", "柳州茶馆", "柳州甜品", "柳州烧烤", "柳州面馆", "柳州牛杂", "柳州鸭脚煲", "柳州融水菜", "柳州三江菜"],
+    "description": "柳州美食门店，覆盖螺蛳粉/牛杂/鸭脚煲/特色小吃及各地菜系"
+  },
+  {
+    "category_id": 2,
+    "category_name_zh": "酒店",
+    "category_name_en": "Hotel",
+    "amap_types": "100000",
+    "amap_keywords": ["柳州酒店", "柳州民宿", "柳州青年旅舍", "柳州五星级酒店", "柳州精品酒店", "柳州连锁酒店", "柳州度假村", "柳州江景酒店", "柳州三江民宿"],
+    "description": "柳州住宿服务，覆盖星级酒店/江景民宿/度假村/青年旅舍"
+  },
+  {
+    "category_id": 3,
+    "category_name_zh": "景点",
+    "category_name_en": "Attraction",
+    "amap_types": "110000|140000",
+    "amap_keywords": ["柳州景区", "柳州博物馆", "柳州公园", "柳州寺庙", "柳州山水", "柳州古镇", "柳州民族村寨", "柳州美术馆", "柳州纪念馆", "柳州游乐园", "柳州主题公园"],
+    "description": "柳州旅游景点，覆盖4A景区/博物馆/公园/民族村寨/主题乐园"
+  },
+  {
+    "category_id": 4,
+    "category_name_zh": "购物",
+    "category_name_en": "Shopping",
+    "amap_types": "060100",
+    "amap_keywords": ["柳州购物中心", "柳州百货商场", "柳州商圈", "柳州商业街", "柳州特产店", "柳州文创店", "柳州螺蛳粉特产", "柳州步行街"],
+    "description": "柳州购物场所，覆盖商圈百货/特色街区/特产店/文创市集"
+  },
+  {
+    "category_id": 5,
+    "category_name_zh": "娱乐",
+    "category_name_en": "Entertainment",
+    "amap_types": "080500",
+    "amap_keywords": ["柳州酒吧", "柳州KTV", "柳州密室逃脱", "柳州剧本杀", "柳州电影院", "柳州剧院", "柳州Livehouse", "柳州夜店", "柳州水疗", "柳州桑拿"],
+    "description": "柳州娱乐场所，覆盖酒吧/KTV/密室/剧本杀/演出/水疗"
+  }
+]
