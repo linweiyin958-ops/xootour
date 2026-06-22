@@ -1,0 +1,42 @@
+[
+  {
+    "category_id": 1,
+    "category_name_zh": "美食",
+    "category_name_en": "Food",
+    "amap_types": "050000",
+    "amap_keywords": ["苏州餐厅", "苏州中餐", "苏帮菜", "苏州小吃", "苏州面馆", "苏州火锅", "苏州川菜", "苏州粤菜", "苏州日料", "苏州西餐", "苏州咖啡", "苏州茶馆", "苏州甜品", "苏州烧烤", "苏州蟹粉", "苏州松鼠桂鱼", "苏州奥灶面"],
+    "description": "苏州美食门店，覆盖苏帮菜/面馆/小吃/老字号及各地菜系"
+  },
+  {
+    "category_id": 2,
+    "category_name_zh": "酒店",
+    "category_name_en": "Hotel",
+    "amap_types": "100000",
+    "amap_keywords": ["苏州酒店", "苏州民宿", "苏州青年旅舍", "苏州五星级酒店", "苏州精品酒店", "苏州连锁酒店", "苏州园林民宿", "苏州古镇民宿", "苏州度假村"],
+    "description": "苏州住宿服务，覆盖星级酒店/园林民宿/古镇客栈/青年旅舍"
+  },
+  {
+    "category_id": 3,
+    "category_name_zh": "景点",
+    "category_name_en": "Attraction",
+    "amap_types": "110000|140000",
+    "amap_keywords": ["苏州景区", "苏州博物馆", "苏州公园", "苏州寺庙", "苏州古镇", "苏州园林", "苏州美术馆", "苏州纪念馆", "苏州动植物园", "苏州游乐园", "苏州主题公园"],
+    "description": "苏州旅游景点，覆盖5A/4A景区/博物馆/园林/古镇/寺庙/主题乐园"
+  },
+  {
+    "category_id": 4,
+    "category_name_zh": "购物",
+    "category_name_en": "Shopping",
+    "amap_types": "060100",
+    "amap_keywords": ["苏州购物中心", "苏州百货商场", "苏州免税店", "苏州奥特莱斯", "苏州商圈", "苏州商业街", "苏州特产店", "苏州文创店", "苏州古玩城", "苏州丝绸市场"],
+    "description": "苏州购物场所，覆盖商圈百货/特色街区/免税店/文创市集"
+  },
+  {
+    "category_id": 5,
+    "category_name_zh": "娱乐",
+    "category_name_en": "Entertainment",
+    "amap_types": "080500",
+    "amap_keywords": ["苏州酒吧", "苏州KTV", "苏州密室逃脱", "苏州剧本杀", "苏州电影院", "苏州剧院", "苏州Livehouse", "苏州夜店", "苏州评弹", "苏州昆曲", "苏州桌游", "苏州电竞", "苏州水疗"],
+    "description": "苏州娱乐场所，覆盖酒吧/KTV/密室/剧本杀/演出/评弹/昆曲"
+  }
+]
