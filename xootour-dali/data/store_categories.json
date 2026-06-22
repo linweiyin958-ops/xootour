@@ -1,0 +1,42 @@
+[
+  {
+    "category_id": 1,
+    "category_name_zh": "美食",
+    "category_name_en": "Food",
+    "amap_types": "050000",
+    "amap_keywords": ["大理餐厅", "大理白族菜", "大理酸辣鱼", "大理烧烤", "大理野生菌火锅", "大理米线", "大理小吃", "大理咖啡", "大理茶馆", "大理甜品", "大理素食", "大理面馆", "大理砂锅鱼", "大理乳扇", "大理凉粉", "大理喜洲粑粑"],
+    "description": "大理美食门店，覆盖白族菜/野生菌火锅/砂锅鱼/乳扇/喜洲粑粑及各地方菜系"
+  },
+  {
+    "category_id": 2,
+    "category_name_zh": "酒店",
+    "category_name_en": "Hotel",
+    "amap_types": "100000",
+    "amap_keywords": ["大理酒店", "大理民宿", "大理客栈", "大理洱海酒店", "大理古城客栈", "大理青年旅舍", "大理海景酒店", "大理精品民宿", "大理度假村", "大理双廊民宿"],
+    "description": "大理住宿服务，覆盖洱海海景酒店/古城客栈/精品民宿/青年旅舍/度假村"
+  },
+  {
+    "category_id": 3,
+    "category_name_zh": "景点",
+    "category_name_en": "Attraction",
+    "amap_types": "110000|140000",
+    "amap_keywords": ["大理景区", "大理古城", "大理洱海", "大理苍山", "大理三塔", "大理博物馆", "大理公园", "大理寺庙", "大理古镇", "大理双廊", "大理喜洲", "大理天龙八部影视城", "大理蝴蝶泉"],
+    "description": "大理旅游景点，覆盖古城/洱海/苍山/三塔/双廊/喜洲/蝴蝶泉等"
+  },
+  {
+    "category_id": 4,
+    "category_name_zh": "购物",
+    "category_name_en": "Shopping",
+    "amap_types": "060100",
+    "amap_keywords": ["大理购物中心", "大理商圈", "大理商业街", "大理特产", "大理扎染", "大理大理石", "大理银器", "大理茶市", "大理文创店", "大理古城步行街", "大理手工市集"],
+    "description": "大理购物场所，覆盖古城步行街/扎染坊/银器店/茶叶市场/文创市集"
+  },
+  {
+    "category_id": 5,
+    "category_name_zh": "娱乐",
+    "category_name_en": "Entertainment",
+    "amap_types": "080500",
+    "amap_keywords": ["大理酒吧", "大理民谣酒吧", "大理KTV", "大理电影院", "大理剧院", "大理Livehouse", "大理咖啡馆", "大理茶馆", "大理书吧", "大理密室逃脱", "大理温泉", "大理水疗"],
+    "description": "大理娱乐场所，覆盖民谣酒吧/咖啡馆/茶馆/Livehouse/温泉/书吧"
+  }
+]
