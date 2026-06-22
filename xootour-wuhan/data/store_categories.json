@@ -1,0 +1,42 @@
+[
+  {
+    "category_id": 1,
+    "category_name_zh": "美食",
+    "category_name_en": "Food",
+    "amap_types": "050000",
+    "amap_keywords": ["武汉餐厅", "武汉中餐", "武汉热干面", "武汉小吃", "武汉火锅", "武汉烧烤", "武汉川菜", "武汉粤菜", "武汉日料", "武汉西餐", "武汉咖啡", "武汉茶馆", "武汉甜品", "武汉面馆", "武汉豆皮", "武汉鸭脖", "武汉小龙虾", "武汉剁馍", "武汉藕汤"],
+    "description": "武汉美食门店，覆盖鄂菜/热干面/小龙虾/小吃/老字号及各地菜系"
+  },
+  {
+    "category_id": 2,
+    "category_name_zh": "酒店",
+    "category_name_en": "Hotel",
+    "amap_types": "100000",
+    "amap_keywords": ["武汉酒店", "武汉民宿", "武汉青年旅舍", "武汉五星级酒店", "武汉精品酒店", "武汉连锁酒店", "武汉江景酒店", "武汉东湖民宿", "武汉度假村"],
+    "description": "武汉住宿服务，覆盖星级酒店/江景民宿/湖景客栈/青年旅舍"
+  },
+  {
+    "category_id": 3,
+    "category_name_zh": "景点",
+    "category_name_en": "Attraction",
+    "amap_types": "110000|140000",
+    "amap_keywords": ["武汉景区", "武汉博物馆", "武汉公园", "武汉寺庙", "武汉江滩", "武汉东湖", "武汉美术馆", "武汉纪念馆", "武汉游乐园", "武汉主题公园", "武汉大学"],
+    "description": "武汉旅游景点，覆盖5A/4A景区/博物馆/公园/寺庙/江滩/主题乐园"
+  },
+  {
+    "category_id": 4,
+    "category_name_zh": "购物",
+    "category_name_en": "Shopping",
+    "amap_types": "060100",
+    "amap_keywords": ["武汉购物中心", "武汉百货商场", "武汉商圈", "武汉商业街", "武汉特产店", "武汉文创店", "武汉光谷", "武汉江汉路", "武汉楚河汉街"],
+    "description": "武汉购物场所，覆盖商圈百货/特色街区/文创市集"
+  },
+  {
+    "category_id": 5,
+    "category_name_zh": "娱乐",
+    "category_name_en": "Entertainment",
+    "amap_types": "080500",
+    "amap_keywords": ["武汉酒吧", "武汉KTV", "武汉密室逃脱", "武汉剧本杀", "武汉电影院", "武汉剧院", "武汉Livehouse", "武汉夜店", "武汉相声", "武汉脱口秀", "武汉桌游", "武汉电竞", "武汉水疗"],
+    "description": "武汉娱乐场所，覆盖酒吧/KTV/密室/剧本杀/演出/相声/夜店"
+  }
+]
